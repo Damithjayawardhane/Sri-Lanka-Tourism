@@ -1,0 +1,34 @@
+.about {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 2rem 1.5rem;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1.2rem;
+  color: #2d2d2d;
+}
+
+.about p {
+  font-size: 1.15rem;
+  color: #444;
+  margin-bottom: 1.2rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 600px) {
+  .about {
+    padding: 1rem 0.5rem;
+  }
+  .about h2 {
+    font-size: 1.4rem;
+  }
+  .about p {
+    font-size: 1rem;
+  }
+}
