@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SriLankaTourism
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Sri-Lanka-Tourism
+Sri Lanka Tourism
+>>>>>>> de0fed7fa8631b9debcf4fc48c770b0bcc529214
